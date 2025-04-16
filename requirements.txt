@@ -1,8 +1,11 @@
 selenium
+webdriver-manager
 google-cloud-bigquery
 google-auth
 google-auth-oauthlib
 google-auth-httplib2
-webdriver-manager
+pandas
 pyarrow
 pandas-gbq>=0.26.1
+scikit-learn
+numpy
