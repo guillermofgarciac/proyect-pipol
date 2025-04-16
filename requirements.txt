@@ -1,0 +1,8 @@
+selenium
+google-cloud-bigquery
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+webdriver-manager
+pyarrow
+pandas-gbq>=0.26.1
