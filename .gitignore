@@ -7,7 +7,8 @@ client_secret.json
 venv/
 .env/
 .envrc
-env/
+./env
+env
 # __pycache__ y archivos compilados de Python
 __pycache__/
 *.py[cod]
