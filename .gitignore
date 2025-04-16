@@ -1,0 +1,31 @@
+# Archivos sensibles
+token.json
+application_default_credentials.json
+client_secret.json
+
+# Entornos virtuales
+venv/
+.env/
+.envrc
+env/
+# __pycache__ y archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de logs temporales
+*.log
+
+# Archivos generados por sistemas
+.DS_Store
+Thumbs.db
+
+# Archivos generados por editores
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.tar
+*.pid
